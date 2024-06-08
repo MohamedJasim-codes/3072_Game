@@ -1,6 +1,6 @@
 # 3072 Game
 
-![3072 Game Demo](demo/demo_screenshot.png)
+![3072 Game Demo](img1.png)
 
 This repository contains a Java implementation of the popular 3072 game. The game is played on a grid where tiles with sum of 3 are randomly placed, and the player's goal is to combine these tiles to create one with the value of 3072.
 
